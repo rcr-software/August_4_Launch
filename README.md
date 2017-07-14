@@ -4,7 +4,7 @@ On August 4th, 2017, RCR will be performing a test launch of our two stage rocke
 
 On-Board Avionics
     Microcomputer/Microcontroller: BeagleBone Black Rev. D
-        Operating System: Debian 8.7 2017-03-19 4GB SD IoT (https://debian.beagleboard.org/images/bone-debian-8.7-iot-armhf-2017-03-19-4gb.img.xz)
+    Operating System: Debian 8.7 2017-03-19 4GB SD IoT (https://debian.beagleboard.org/images/bone-debian-8.7-iot-armhf-2017-03-19-4gb.img.xz)
 
     RF Transmitter/Receiver: XBee SX SMD with multidirectional antenna
 
@@ -12,6 +12,6 @@ On-Board Avionics
 
 Ground Station
     Microcomputer/Microcontroller: Raspberry Pi 3
-        Operating System: Raspbian Jessie
+    Operating System: Raspbian Jessie
 
     RF Transmitter/Receiver: XBee SX SMD with multidirectional antenna
