@@ -19,5 +19,5 @@ On August 4th, 2017, RCR will be performing a test launch of our two stage rocke
     RF Transmitter/Receiver: XBee SX SMD with multidirectional antenna
 
 # References
-    https://jazprojects.wordpress.com/2012/12/23/serial-communication-in-c-in-the-beaglebones-linux-environment-with-an-xbee-example/
-    http://elinux.org/ECE497_Project:_XBee
+- https://jazprojects.wordpress.com/2012/12/23/serial-communication-in-c-in-the-beaglebones-linux-environment-with-an-xbee-example/
+- http://elinux.org/ECE497_Project:_XBee
