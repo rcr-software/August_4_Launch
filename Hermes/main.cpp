@@ -1,11 +1,3 @@
-//============================================================================
-// File        : control.cpp
-// Author      : Jaz Stanberry
-// Copyright   : 2012
-// Description : Enables UART communication in the BeagleBone using UARTs 2 and 4.
-//               It also enables UARTs 1,2,4,5.
-//============================================================================
-
 #include <iostream>
 //#include <cmath>
 #include <math.h>
